@@ -9,10 +9,10 @@
 # **Via inferface de linha de comando**
 
 ##### 1. Abra seu terminal
-##### 2. Criar pasta para o projeto com o comando ```"mkdir nome_do_projeto"``` 
-##### 3. Navegue para a pasta criada com o camando ```"cd nome_do_projeto"``` 
+##### 2. Criar pasta para o projeto com o comando: ```"mkdir nome_do_projeto"``` 
+##### 3. Navegue para a pasta criada com o camando: ```"cd nome_do_projeto"``` 
 
-##### Criar arquivos --> ```touch (cria arquivo sem conteúdo)``` ou ```echo > (cria arquivo com conteúdo)```
+##### Criar arquivos: ```touch (cria arquivo sem conteúdo)``` ou ```echo > (cria arquivo com conteúdo)```
 
 # **Comandos Git:**
 
