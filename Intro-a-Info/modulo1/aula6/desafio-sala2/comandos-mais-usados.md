@@ -1,4 +1,4 @@
-#Criar Repositório GitHub
+#**Criar Repositório GitHub**
 
 ##1. Acesse sua conta, clique em "New Repository".
 ##2. Crie um nome para o Repositório
@@ -6,7 +6,7 @@
 ##4. Marque a opção de criação do arquivo README.md (Opcional)
 ##5. Crie seu repositório! 
 
-#Via inferface de linha de comando
+#**Via inferface de linha de comando**
 
 ##1. Abra seu terminal
 ##2. Criar pasta para o projeto com o comando ```"mkdir nome_do_projeto"```
@@ -14,7 +14,7 @@
 
 #Criar arquivos --> ```touch (cria arquivo sem conteúdo)``` ou ```echo > (cria arquivo com conteúdo)```
 
-#Comandos Git:
+#**Comandos Git:**
 
 ##1. Inicializar repositório: ```git init```
 ##2. Criar branches: ```git checkout -b nome-da-branch```
