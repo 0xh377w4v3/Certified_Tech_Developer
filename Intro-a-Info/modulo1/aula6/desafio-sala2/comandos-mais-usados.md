@@ -12,9 +12,9 @@
 
 ## **Criar Repositório GitHub**
 
-##### 1. Acesse sua conta, clique em "New Repository".
+##### 1. Acesse sua conta, clique em **'New Repository'**.
 ##### 2. Crie um nome para o Repositório
-##### 3. Informe se será 'public' ou 'private'
+##### 3. Informe se será **'public'** ou **'private'**
 ##### 4. Marque a opção de criação do arquivo README.md (Opcional)
 ##### 5. Crie seu repositório! 
 
@@ -33,5 +33,5 @@
 ##### 3. Clonar repositório: ```git clone url-gerada-no-repositorio``` 
 ##### 4. Preparar arquivos para commit: ```git add .```
 ##### 5. Enviar mensagem ao "commitar" arquivos na area de preparo: ```git commit -m "mensagem"``` 
-##### 6. Enviar arquivos para o GitHub: ```git push origin main (use a flag -u para um primeiro envio)```
+##### 6. Enviar arquivos para o GitHub: ```git push origin main``` (use a flag -u para um primeiro envio).
 ##### 7. Atualizar arquivos locais com repositorio remoto: ```git pull origin main``` 
