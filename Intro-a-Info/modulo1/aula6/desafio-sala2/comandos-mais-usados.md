@@ -18,7 +18,7 @@
 ##### 4. Marque a opção de criação do arquivo README.md (Opcional)
 ##### 5. Crie seu repositório! 
 
-## **Via inferface de linha de comando**
+## **Via interface de linha de comando (CLI)**
 
 ##### 1. Abra seu terminal
 ##### 2. Criar pasta para o projeto com o comando: ```mkdir nome_do_projeto``` 
