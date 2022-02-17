@@ -1,16 +1,16 @@
 # **Criar Repositório GitHub**
 
-##### 1. Acesse sua conta, clique em "New Repository".\
-##### 2. Crie um nome para o Repositório\
-##### 3. Informe se será 'public' ou 'private'\
-##### 4. Marque a opção de criação do arquivo README.md (Opcional)\
-##### 5. Crie seu repositório! \
+##### 1. Acesse sua conta, clique em "New Repository".
+##### 2. Crie um nome para o Repositório
+##### 3. Informe se será 'public' ou 'private'
+##### 4. Marque a opção de criação do arquivo README.md (Opcional)
+##### 5. Crie seu repositório! 
 
 # **Via inferface de linha de comando**
 
 ##### 1. Abra seu terminal
-##### 2. Criar pasta para o projeto com o comando ```"mkdir nome_do_projeto"``` \
-##### 3. Navegue para a pasta criada com o camando ```"cd nome_do_projeto"``` \
+##### 2. Criar pasta para o projeto com o comando ```"mkdir nome_do_projeto"``` 
+##### 3. Navegue para a pasta criada com o camando ```"cd nome_do_projeto"``` 
 
 ##### Criar arquivos --> ```touch (cria arquivo sem conteúdo)``` ou ```echo > (cria arquivo com conteúdo) \```
 
