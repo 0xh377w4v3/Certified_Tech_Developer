@@ -14,7 +14,7 @@
 ##### 2. Criar pasta para o projeto com o comando: ```mkdir nome_do_projeto``` 
 ##### 3. Navegue para a pasta criada com o comando: ```cd nome_do_projeto``` 
 
-##### Criar arquivos: ```touch nome_do_arquivo (cria arquivo sem conteúdo)``` ou ```echo "mensagem" > nome_do_arquivo (cria arquivo com conteúdo)```
+##### Criar arquivos: ```touch nome_do_arquivo``` (cria arquivo sem conteúdo) ou ```echo "mensagem" > nome_do_arquivo``` (cria arquivo com conteúdo).
 
 ## **Comandos Git:**
 
