@@ -1,6 +1,6 @@
 # **Mochila do viajante**
 
-## Integrantes
+## Integrantes Equipe 2
 
 ##### Jonatan Rocha
 ##### João Matheus
