@@ -1,10 +1,10 @@
 #**Criar Repositório GitHub**
 
-##1. Acesse sua conta, clique em "New Repository".
-##2. Crie um nome para o Repositório
-##3. Informe se será 'public' ou 'private'
-##4. Marque a opção de criação do arquivo README.md (Opcional)
-##5. Crie seu repositório! 
+##1. Acesse sua conta, clique em "New Repository".\
+##2. Crie um nome para o Repositório\
+##3. Informe se será 'public' ou 'private'\
+##4. Marque a opção de criação do arquivo README.md (Opcional)\
+##5. Crie seu repositório!\
 
 #**Via inferface de linha de comando**
 
