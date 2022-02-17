@@ -1,15 +1,5 @@
 # **Mochila do viajante**
 
-## Integrantes Equipe 2
-
-##### Jonatan Rocha
-##### João Matheus
-##### Italo Gomes
-##### Pedro Miranda
-##### Lucas Gabriel
-##### Elisandro 
-##### Antonio Mesquita
-
 ## **Criar Repositório GitHub**
 
 ##### 1. Acesse sua conta, clique em **'New Repository'**.
