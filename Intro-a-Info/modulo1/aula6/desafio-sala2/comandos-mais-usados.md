@@ -12,14 +12,14 @@
 ##### 2. Criar pasta para o projeto com o comando ```"mkdir nome_do_projeto"``` 
 ##### 3. Navegue para a pasta criada com o camando ```"cd nome_do_projeto"``` 
 
-##### Criar arquivos --> ```touch (cria arquivo sem conteúdo)``` ou ```echo > (cria arquivo com conteúdo) \```
+##### Criar arquivos --> ```touch (cria arquivo sem conteúdo)``` ou ```echo > (cria arquivo com conteúdo)```
 
-# **Comandos Git:**\
+# **Comandos Git:**
 
-##### 1. Inicializar repositório: ```git init``` \
-##### 2. Criar branches: ```git checkout -b nome-da-branch``` \
-##### 3. Clonar repositório: ```git clone url-gerada-no-repositorio``` \
+##### 1. Inicializar repositório: ```git init```
+##### 2. Criar branches: ```git checkout -b nome-da-branch``` 
+##### 3. Clonar repositório: ```git clone url-gerada-no-repositorio``` 
 ##### 4. Preparar arquivos para commit: ```git add .```
-##### 5. Enviar mensagem ao "commitar" arquivos na area de preparo: ```git commit -m "mensagem"``` \
-##### 6. Enviar arquivos para o GitHub: ```git push origin main (use a flag -u para um primeiro envio) \```
-##### 7. Atualizar arquivos locais com repositorio remoto: ```git pull origin main``` \
+##### 5. Enviar mensagem ao "commitar" arquivos na area de preparo: ```git commit -m "mensagem"``` 
+##### 6. Enviar arquivos para o GitHub: ```git push origin main (use a flag -u para um primeiro envio)```
+##### 7. Atualizar arquivos locais com repositorio remoto: ```git pull origin main``` 
