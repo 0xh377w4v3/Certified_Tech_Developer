@@ -1,0 +1,9 @@
+.body {
+    background-color: purple;
+    font-family: sans-serif;
+    text-align: center;
+    p { color: blue }    
+
+}
+.text-highlight {
+    background-color: yellow;
