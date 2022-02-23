@@ -34,34 +34,7 @@ body{
     transform: scale(1.02);
     filter: brightness(120%);
 }
-.thumbnail1{
-    background-image: url("https://picsum.photos/800/500?random=1");
-    height: 250px;
-    width: 100%;
-}
-.thumbnail2{
-    background-image: url("https://picsum.photos/800/500?random=2");
-    height: 250px;
-    width: 100%;
-}
-.thumbnail3{
-    background-image: url("https://picsum.photos/800/500?random=3");
-    height: 250px;
-    width: 100%;
-}
-.thumbnail4{
-    background-image: url("https://picsum.photos/800/500?random=4");
-    height: 250px;
-    width: 100%;
-}
-.thumbnail5{
-    background-image: url("https://picsum.photos/800/500?random=5");
-    height: 250px;
-    width: 100%;
-}
-.thumbnail6{
-    background-image: url("https://picsum.photos/800/500?random=6");
-    height: 250px;
+.thumbnail{
     width: 100%;
 }
 .video-time{
