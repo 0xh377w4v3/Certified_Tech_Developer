@@ -125,7 +125,6 @@ nav ul li a:hover::before {
     border-left: 10px solid rgba(66,139,202,.2);
     animation: loading 0.6s linear infinite;
  }
- 
 @keyframes loading {
     0% {
         transform: rotate(0deg);
