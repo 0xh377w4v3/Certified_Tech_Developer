@@ -20,7 +20,7 @@ Utilizaremos o projeto base para projetar um site e consideraremos os seguintes 
 
 Quando a atividade estiver concluída, compartilhe o link das páginas do GitHub no Discord no canal geral.
 
-## Conclusão
+### Conclusão
 
 Antes de nos concentrarmos no código, um exercício interessante é entender quais serão os elementos que precisaremos para estruturar um site.
 
