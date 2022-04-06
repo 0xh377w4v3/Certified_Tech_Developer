@@ -92,6 +92,9 @@ button {
 }
 
 .btn-explorer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 200px;
   height: 50px;
   color: var(--colorBackground);
@@ -137,7 +140,6 @@ section.itens {
   border-style: none;
   box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1),
     0px 10px 15px -3px rgba(0, 0, 0, 0.1);
-
   background-color: var(--colorBackgroundCard);
 }
 
@@ -196,6 +198,45 @@ section.itens {
   border-color: rgba(255, 0, 76, 0.82);
   transition: 1s;
   transform: scale(1.05);
+  
+}
+
+.btn-abrir-guns {
+  color: #afafaf;
+  animation: glow 1.8s ease-in infinite;
+}
+
+@keyframes glow {
+  0% {
+    background-color: #17171784;
+  }
+  10% {
+    background-color: #38383884;
+  }
+  20% {
+    background-color: #50505084;
+  }
+  30% {
+    background-color: #73737384;
+  }
+  40% {
+    background-color: #8d8d8d84;
+  }
+  50% {
+    background-color: #a8a8a884;
+  }
+  60% {
+    background-color: #bfbfbf84;
+  }
+  70% {
+    background-color: #d2d2d284;
+  }
+  80% {
+    background-color: #e1e1e184;
+  }
+  90% {
+    background-color: #f4f4f484;
+  }
 }
 
 .card-img-top {
@@ -236,18 +277,22 @@ footer div.cardAluno {
 .modal-body {
   padding: 0;
 }
+
 .btn {
   width: 200px;
   height: 50px;
   color: #f4f4f4;
   border-color: var(--colorBtnCard);
-  background-color: #1717170a;
+  
   box-shadow: 0px 0px 21px 0px rgba(51, 187, 105, 0.82);
   font-weight: bold;
   font-size: 1.5rem;
   border-radius: 12px;
+  margin-bottom: 20px;
 }
+
 .btn:hover {
+  color: #f4f4f4;
   background-color: rgba(255, 0, 76, 0.82);
   box-shadow: 0px 0px 21px 0px rgba(255, 0, 76, 0.82);
   border-color: rgba(255, 0, 76, 0.82);
@@ -284,6 +329,7 @@ h1:hover {
   color: #33bb69;
   transition: 0.5s;
 }
+
 .myform {
   padding: 2em;
   max-width: 100%;
